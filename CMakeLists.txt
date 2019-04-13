@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required (VERSION 3.8)
 
-project("LoggerLib")
+project("LibLogger")
 
-add_subdirectory("LoggerLib")
+add_subdirectory("LibLogger")
